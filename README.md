@@ -1,3 +1,3 @@
 # gitskills
-Creating a new branch is quick & simple.
-Test and Test
+## Creating a new branch is quick & simple.
+# Test and Test
